@@ -14,3 +14,10 @@ body{
     line-height: 1.2;
     height: auto;
 }
+
+h1{
+    color: white;
+    max-width: 80rem;
+    line-height: 110%;
+    
+}
